@@ -1,4 +1,4 @@
-# Utilidades para DJI Tello (`tello_utils`)
+# Utilidades para DJI Tello
 
 Este repositorio contiene scripts rápidos para facilitarte la vida al momento de volar y diagnosticar los drones Tello. 
 
